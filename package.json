@@ -1,9 +1,9 @@
 {
-  "name": "akos-boilerplate-init",
+  "name": "create-akos",
   "version": "0.0.3",
   "main": "lib/boilerplate.js",
   "bin": {
-    "akos-boilerplate-init": "bin/akos.js"
+    "create-akos": "bin/akos.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -44,7 +44,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akos/akos-boilerplate-init.git"
+    "url": "git+https://github.com/akos/create-akos.git"
   },
   "keywords": [
     "akos",
@@ -54,7 +54,7 @@
     "koa"
   ],
   "bugs": {
-    "url": "https://github.com/akos/akos-boilerplate-init/issues"
+    "url": "https://github.com/akos/create-akos/issues"
   },
-  "homepage": "https://github.com/akos/akos-boilerplate-init#readme"
+  "homepage": "https://github.com/akos/create-akos#readme"
 }
