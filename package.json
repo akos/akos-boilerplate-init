@@ -11,6 +11,8 @@
     "test": "npm run lint -- --fix && egg-bin test",
     "cov": "egg-bin cov",
     "ci": "npm run lint && egg-bin cov",
+    "clean": "rm -rf test",
+    "dev": "./bin/akos.js test",
     "autod": "autod"
   },
   "author": "Alps_Lin (lgfshr@163.com)",
