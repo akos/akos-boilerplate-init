@@ -1,1 +1,5 @@
-# akos-boilerplate-init
+# create-akos
+
+``` shell
+npm init akos
+```
