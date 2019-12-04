@@ -6,8 +6,8 @@
     "create-akos": "bin/akos.js"
   },
   "scripts": {
-    "lint": "eslint bin lib test",
-    "fix": "eslint bin lib test --fix",
+    "lint": "eslint .",
+    "fix": "eslint . --fix",
     "test": "npm run lint -- --fix && egg-bin test",
     "cov": "egg-bin cov",
     "ci": "npm run lint && egg-bin cov",
