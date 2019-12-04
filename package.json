@@ -1,6 +1,6 @@
 {
   "name": "create-akos",
-  "version": "0.1.4",
+  "version": "1.0.1",
   "main": "lib/boilerplate.js",
   "bin": {
     "create-akos": "bin/akos.js"
